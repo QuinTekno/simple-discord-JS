@@ -1,0 +1,3 @@
+exports.Prefix = `!`;
+exports.Token = `your-bot-token-here`;
+exports.Color = `RANDOM`;
